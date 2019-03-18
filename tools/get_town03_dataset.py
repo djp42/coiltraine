@@ -1,7 +1,7 @@
 import os
 import tarfile
 
-from .download_tools import download_file_from_google_drive
+from download_tools import download_file_from_google_drive
 
 
 

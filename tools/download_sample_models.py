@@ -4,7 +4,7 @@ import sys
 
 import tarfile
 
-from .download_tools import download_file_from_google_drive
+from download_tools import download_file_from_google_drive
 
 if __name__ == "__main__":
 

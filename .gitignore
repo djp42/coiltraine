@@ -102,3 +102,9 @@ ENV/
 
 # pycharm
 .idea
+
+# data
+*.tar.gz
+_logs/*
+*/_logs/*
+_preloads/*
